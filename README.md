@@ -18,8 +18,8 @@ Incremental games, also known as clicker games, clicking games (on PCs) or tap g
 
 
 ## Authors
-Muhammad Faturahman Bancin
-ex. [@fathursyafeei](https://www.instagram.com/art.of.fatur)
+* Muhammad Faturahman Bancin
+* [@fathursyafeei](https://www.instagram.com/art.of.fatur)
 
 ## Version History
 * 0.1
@@ -30,4 +30,4 @@ ex. [@fathursyafeei](https://www.instagram.com/art.of.fatur)
 * [Dilo Game Academy](https://academy.dilo.id/)
 * [Unity](https://unity.com/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
-* [Wikipedia] (https://en.wikipedia.org/wiki/Incremental_game) 
+* [Wikipedia](https://en.wikipedia.org/wiki/Incremental_game) 
