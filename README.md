@@ -1,4 +1,4 @@
-#IncrementalGame
+# IncrementalGame
 
 ## Description
 Game clicker (Incremental game) adalah Game inkremental, juga dikenal sebagai game clicker, game mengklik, atau game ketuk, adalah game video yang gameplaynya terdiri dari pemain yang melakukan tindakan sederhana seperti mengklik layar berulang kali. 
